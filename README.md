@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">
+  Hi, I'm Eduardo  
+  <img src="https://media.giphy.com/media/LrKbFfGC9Z2iQ7Tdz7/giphy.gif" width="70">
+</h1>
 
-<!--
-**DANIELEDUARDOMARTINEZLOPEZ/DANIELEDUARDOMARTINEZLOPEZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<h2><img src="https://cdn-icons-png.flaticon.com/512/2922/2922506.png" width="30"/> Sobre mí</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table width="100%">
+  <tr>
+    <td valign="top" style="width: 60%;">
+      <p align="left" style="font-size: 16px;">
+        🏫 Soy estudiante de Desarrollo de Software en ITCA-FEPADE, con enfoque en prácticas y proyectos.<br>
+        📚 Actualmente profundizo en temas de programación y base de datos.<br>
+        💡 Me apasiona crear soluciones eficientes mediante el uso de la tecnología.<br>
+        💻 Disfruto los retos de la programación competitiva y la mejora continua de mis habilidades.<br>
+        🤓 Siempre busco aprender algo nuevo, ya sea una tecnología, lenguaje o herramienta.<br>
+        🤝 Estoy abierto a nuevas oportunidades profesionales donde pueda aportar y crecer.
+      </p>
+    </td>
+    <td align="center" style="width: 40%;">
+      <img src="https://media.giphy.com/media/f6h7wzsAkdXZThF609/giphy.gif" style="max-width: 100%; height: auto;">
+    </td>
+  </tr>
+</table>
+
+
+
+
+   
