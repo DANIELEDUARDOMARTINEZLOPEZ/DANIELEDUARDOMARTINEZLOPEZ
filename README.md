@@ -1,5 +1,7 @@
 <h1 align="center">
-  Hi, I'm Eduardo  
+  Hi, I'm Eduardo 
+  
+  "EN REPARACIÓN"
   <img src="https://media.giphy.com/media/LrKbFfGC9Z2iQ7Tdz7/giphy.gif" width="70">
 </h1>
 
