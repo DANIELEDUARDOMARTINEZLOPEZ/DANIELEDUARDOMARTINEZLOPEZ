@@ -1,14 +1,13 @@
-<p align="center" style="font-size: 32px; font-weight: bold;">
-  Hi, I'm Eduardo <br>
-  "EN REPARACIÓN"
+<h1 align="center"> 
+  Hi, I'm Eduardo 
+  
+
   <img src="https://media.giphy.com/media/LrKbFfGC9Z2iQ7Tdz7/giphy.gif" width="70">
-</p>
+</h1>
 
 <br>
 
-<p style="font-size: 24px; font-weight: bold;">
-  <img src="https://cdn-icons-png.flaticon.com/512/2922/2922506.png" width="30"/> Sobre mí
-</p>
+<h2><img src="https://cdn-icons-png.flaticon.com/512/2922/2922506.png" width="30"/> Sobre mí</h2>
 
 <div style="overflow: auto;">
 
@@ -24,8 +23,6 @@
   </p>
 
 </div>
-
-
 
 
 
