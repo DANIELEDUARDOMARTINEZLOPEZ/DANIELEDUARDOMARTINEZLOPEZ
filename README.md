@@ -13,8 +13,8 @@
   <tr>
     <td valign="top" style="width: 60%;">
       <p align="left" style="font-size: 16px;">
-        🏫 Soy estudiante de Desarrollo de Software en ITCA-FEPADE, con enfoque en prácticas y proyectos.<br>
-        📚 Actualmente profundizo en temas de programación y base de datos.<br>
+        🏫 Soy estudiante de la carrera de ingeneria en sistemas, con enfoque en prácticas y proyectos.<br>
+        📚 Actualmente profundizo en temas de logica, IA, y programacion.<br>
         💡 Me apasiona crear soluciones eficientes mediante el uso de la tecnología.<br>
         💻 Disfruto los retos de la programación competitiva y la mejora continua de mis habilidades.<br>
         🤓 Siempre busco aprender algo nuevo, ya sea una tecnología, lenguaje o herramienta.<br>
